@@ -1,5 +1,4 @@
 ---
-draft: true
 Description: Summary of the GNOME ATK & AT-SPI Hackfest 2011.
 Keywords:
 - Accessibility
