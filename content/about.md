@@ -4,11 +4,12 @@ draft: false
 title: About
 ---
 
-gloob is Alejandro Leiva, a worker in the tech industry.
+*Alejandro Leiva* is also known as *gloob*, a worker in the tech industry and a human in this planet.
 
 You can find me in this channels:
 
-* Twitter
-* Flickr
-* Linkedin
-* Ohlo
+* [Twitter](https://twitter.com/gloob)
+* [GitHub](https://github.com/gloob)
+* [Flickr](https://www.flickr.com/people/gloob/)
+* [LinkedIn](https://www.linkedin.com/in/alejandroleiva)
+* [Open Hub](https://www.openhub.net/accounts/23204?ref=Detailed)
