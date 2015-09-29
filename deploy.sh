@@ -2,7 +2,7 @@
 echo -e "\033[0;32mDeploying updates to Github...\033[0m"
 
 # Build the project.
-hugo
+hugo server -b "http://www.litio.org" --appendPort=false
 
 # Go to public folder.
 cd public
