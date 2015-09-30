@@ -30,7 +30,7 @@ theme = "cactus"
     # Navigation links
     home = ""
     about = ""
-    subscribe = ""
+    subscribe = "RSS"
     # Pagination links
     olderPosts = ""
     newerPosts = ""
