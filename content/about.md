@@ -6,10 +6,13 @@ title: About
 
 *Alejandro Leiva* is also known as *gloob*, a worker in the tech industry and a human in this planet.
 
-You can find me in this channels:
+You can find me in this other social places
 
-* [Twitter](https://twitter.com/gloob)
-* [GitHub](https://github.com/gloob)
-* [Flickr](https://www.flickr.com/people/gloob/)
-* [LinkedIn](https://www.linkedin.com/in/alejandroleiva)
-* [Open Hub](https://www.openhub.net/accounts/23204?ref=Detailed)
+<div id="social">
+<a href="https://github.com/gloob"><div class="genericon genericon-github"></div></a>
+<a href="https://twitter.com/gloob"><div class="genericon genericon-twitter"></div></a>
+<a href="#"><div class="genericon genericon-facebook"></div></a>
+<a href="https://flickr.com/people/gloob"><div class="genericon genericon-flickr"></div></a>
+<a href="https://www.linkedin.com/in/alejandroleiva"><div class="genericon genericon-linkedin"></div></a>
+<a href="https://www.openhub.net/accounts/23204?ref=Detailed"><div class="genericon genericon-shuffle"></div></a>
+</div>
