@@ -11,7 +11,7 @@ You can find me in this other social places
 <div id="social">
 <a href="https://github.com/gloob"><div class="genericon genericon-github"></div></a>
 <a href="https://twitter.com/gloob"><div class="genericon genericon-twitter"></div></a>
-<a href="#"><div class="genericon genericon-facebook"></div></a>
+<a href="https://www.facebook.com/alejandro.leiva.9"><div class="genericon genericon-facebook"></div></a>
 <a href="https://flickr.com/people/gloob"><div class="genericon genericon-flickr"></div></a>
 <a href="https://www.linkedin.com/in/alejandroleiva"><div class="genericon genericon-linkedin"></div></a>
 <a href="https://www.openhub.net/accounts/23204?ref=Detailed"><div class="genericon genericon-shuffle"></div></a>
