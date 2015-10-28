@@ -2,7 +2,7 @@ baseurl = "http://www.litio.org/"
 title = "gloob's devlog"
 languageCode = "en-us"
 disqusShortname = "gloob"
-copyright = "Copyright (c) 2008 - 2015, Alejandro Leiva; all rights reserved."
+copyright = "Copyright (c) 2004 - 2015, Alejandro Leiva; all rights reserved."
 MetaDataFormat = "yaml"
 theme = "cactus"
 
