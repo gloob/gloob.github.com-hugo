@@ -6,6 +6,8 @@ title: About
 
 *Alejandro Leiva* is also known as *gloob*, a worker in the tech industry and a human in this planet.
 
+If you want to talk with me just write me some line to <mailto:gloob@litio.org>
+
 You can find me in this other social places
 
 <div id="social">
