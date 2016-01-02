@@ -1,6 +1,8 @@
 [submodule "public"]
 	path = public
 	url = git@github.com:gloob/gloob.github.com.git
+	branch = master
 [submodule "themes"]
 	path = themes
 	url = https://github.com/spf13/hugoThemes.git
+	branch = master
