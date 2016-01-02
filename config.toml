@@ -1,4 +1,6 @@
-baseurl = "http://www.litio.org/"
+baseurl = "//www.litio.org/"
+canonifyurls = false
+relativeurls = true
 title = "gloob's devlog"
 languageCode = "en-us"
 disqusShortname = "gloob"

@@ -2,7 +2,7 @@
 title: A pair of telegram bots (@gfxBot & @irc_bot)
 Description: The short story about how I implemented two Telegrams bots in Go.
 date: 2015-10-27
-draft: false
+draft: true
 Keywords:
 - Development
 - Community
